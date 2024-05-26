@@ -32,6 +32,7 @@ int A=20, B=25;
        // System.out.println(A);
         //B/=5;   //B=B/5
         System.out.println(++B*--A*10);
+ System.out.println(B++*--A*10);
 
 
 
